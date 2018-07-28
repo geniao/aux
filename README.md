@@ -1,0 +1,2 @@
+# aux
+android architecture
